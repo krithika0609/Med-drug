@@ -49,3 +49,8 @@ frontend/.env.*
 
 # Logs
 *.log
+
+# Local execution wrappers
+powershell.cmd
+powershell
+
